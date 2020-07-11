@@ -20,3 +20,7 @@ python3 InstagramFetch.py USERNAME
 
 Parameter required:
 Username = instagram profile username to be dumped.
+
+### Output
+
+There will be a file in the directory, filetype .json.
