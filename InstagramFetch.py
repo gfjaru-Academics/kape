@@ -1,4 +1,4 @@
-import requests, csv, time, math, json, argparse
+import requests, time, math, json, argparse
 
 _G_TOKEN = "42323d64886122307be10013ad2dcc44"
 
